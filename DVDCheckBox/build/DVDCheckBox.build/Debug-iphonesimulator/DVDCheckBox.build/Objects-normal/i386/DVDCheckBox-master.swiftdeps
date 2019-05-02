@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "acf69d8844c8ad5fc3f233afcf5f4c65"
+build_time: [1556269078, 848156000]
+inputs:
+  "/Users/mac/Documents/iOS/Framework/DVDCheckBox/DVDCheckBox/DVDCheckBox/DVDCheckBox.swift": [1556268610, 454129561]
+  "/Users/mac/Documents/iOS/Framework/DVDCheckBox/DVDCheckBox/DVDCheckBox/E\u0303/UILabel.swift": [1542181912, 23578550]
+  "/Users/mac/Documents/iOS/Framework/DVDCheckBox/DVDCheckBox/DVDCheckBox/DVDCheckBoxProtocol.swift": [1542168411, 110008228]
