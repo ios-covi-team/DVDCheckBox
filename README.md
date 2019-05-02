@@ -95,6 +95,7 @@ There is a demo project added to this repository, so you can see how it works.
 MIT License
 
 Copyright (c) 2018 COVISOFT INCOPORATION
+
 Author :  mrrobo1510
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
